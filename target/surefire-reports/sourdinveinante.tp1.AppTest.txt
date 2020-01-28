@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: sourdinveinante.tp1.AppTest
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.38 sec <<< FAILURE!
-testFucntion(sourdinveinante.tp1.AppTest)  Time elapsed: 0.373 sec  <<< ERROR!
+Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.328 sec <<< FAILURE!
+testFucntion(sourdinveinante.tp1.AppTest)  Time elapsed: 0.328 sec  <<< ERROR!
 java.lang.Error: Unresolved compilation problem: 
 	Unreachable code
 

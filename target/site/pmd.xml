@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<pmd version="4.2.5" timestamp="2020-01-28T16:41:27.222">
+<pmd version="4.2.5" timestamp="2020-01-28T17:14:25.817">
 <file name="C:\Users\Duncan\eclipse-workspace\TP1\src\main\java\sourdinveinante\tp1\App.java">
 <violation beginline="29" endline="29" begincolumn="13" endcolumn="13" rule="UnusedLocalVariable" ruleset="Unused Code Rules" package="sourdinveinante.tp1" class="App" method="superFonction" variable="a" externalInfoUrl="http://pmd.sourceforge.net/rules/unusedcode.html#UnusedLocalVariable" priority="3">
 Avoid unused local variables such as 'a'.

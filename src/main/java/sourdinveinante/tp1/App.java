@@ -24,7 +24,7 @@ public class App {
      */
     public static int superFonction()
     {
-    	return 2 + 5;
+    	return 2 + 3;
     	
     	int a = 4;
     }

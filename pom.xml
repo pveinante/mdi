@@ -81,6 +81,18 @@
 				<artifactId>maven-pmd-plugin</artifactId>
 				<version>2.5</version>
 			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-changelog-plugin</artifactId>
+				<version>2.3</version>
+			</plugin>
 		</plugins>
 	</reporting>
+	
+	<scm>
+		<connection>scm:git://https://github.com/pveinante/mdi</connection>
+    	<developerConnection>scm:git://https://github.com/pveinante/mdi</developerConnection>
+		<url>scm:git://https://github.com/pveinante/mdi</url>
+	</scm>
+	
 </project>

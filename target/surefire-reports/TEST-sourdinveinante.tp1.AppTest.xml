@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="2" failures="0" name="sourdinveinante.tp1.AppTest" time="0.38" errors="1" skipped="0">
+<testsuite tests="2" failures="0" name="sourdinveinante.tp1.AppTest" time="0.328" errors="1" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_221\jre\bin"/>
@@ -28,7 +28,7 @@
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 10"/>
     <property name="net.sourceforge.cobertura.datafile" value="C:\Users\Duncan\eclipse-workspace\TP1\target\cobertura\cobertura.ser"/>
-    <property name="classworlds.conf" value="C:\Users\Duncan\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf1310140045384825430.tmp"/>
+    <property name="classworlds.conf" value="C:\Users\Duncan\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf4335630925827005662.tmp"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
     <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_221\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jdk1.8.0_221/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8.0_221/bin/../jre/bin;C:/Program Files/Java/jdk1.8.0_221/bin/../jre/lib/amd64;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\CMake\bin;C:\Program Files\Git\cmd;%VISP_WS%\visp-build-vc16\install\x64\vc16\bin;C:\Program Files\dotnet\;C:\Users\Duncan\AppData\Local\Microsoft\WindowsApps;C:\Users\Duncan\AppData\Local\atom\bin;C:\visp-ws\visp-build-vc16\install\x64\vc16\bin;;C:\Windows\system32;;."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
@@ -63,8 +63,7 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="sourdinveinante.tp1.AppTest" name="testApp" time="0.007"/>
-  <testcase classname="sourdinveinante.tp1.AppTest" name="testFucntion" time="0.373">
+  <testcase classname="sourdinveinante.tp1.AppTest" name="testFucntion" time="0.328">
     <error message="Unresolved compilation problem: 
 	Unreachable code
 " type="java.lang.Error">java.lang.Error: Unresolved compilation problem: 
@@ -74,4 +73,5 @@
 	at sourdinveinante.tp1.AppTest.testFucntion(AppTest.java:41)
 </error>
   </testcase>
+  <testcase classname="sourdinveinante.tp1.AppTest" name="testApp" time="0"/>
 </testsuite>
